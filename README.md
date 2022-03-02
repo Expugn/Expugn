@@ -19,6 +19,9 @@ Updating tool for `priconne-quest-helper`
 > [priconne-en_db-fetch](https://github.com/Expugn/priconne-en_db-fetch)<br>
 Grabs the `master.db` for the English version of `Princess Connect! Re:Dive`
 
+> [priconne-database](https://github.com/Expugn/priconne-database)<br>
+Grabs the `master.db` from multiple game regions of `Princess Connect! Re:Dive`
+
 ## Genshin Impact
 > [genshin-weapon-material-calculator](https://github.com/Expugn/genshin-weapon-material-calculator)<br>
 Calculator for figuring out if you have enough weapon ascension materials
