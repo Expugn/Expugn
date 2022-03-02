@@ -20,7 +20,7 @@ Updating tool for `priconne-quest-helper`
 Grabs the `master.db` for the English version of `Princess Connect! Re:Dive`
 
 > [priconne-database](https://github.com/Expugn/priconne-database)<br>
-Grabs the `master.db` from multiple game regions of `Princess Connect! Re:Dive`
+Grabs and serves the `master.db` from multiple game regions of `Princess Connect! Re:Dive`
 
 ## Genshin Impact
 > [genshin-weapon-material-calculator](https://github.com/Expugn/genshin-weapon-material-calculator)<br>
