@@ -16,7 +16,7 @@ Help for non-Japanese speakers for the `Great Battle! Shiritori Dragons` minigam
 > [pqh-updater](https://github.com/Expugn/pqh-updater)<br>
 Updating tool for `priconne-quest-helper`
 
-> [priconne-en_db-fetch](https://github.com/Expugn/priconne-en_db-fetch)<br>
+> ~~[priconne-en_db-fetch](https://github.com/Expugn/priconne-en_db-fetch)~~ **(DISCONTINUED)**<br>
 Grabs the `master.db` for the English version of `Princess Connect! Re:Dive`
 
 > [priconne-database](https://github.com/Expugn/priconne-database)<br>
