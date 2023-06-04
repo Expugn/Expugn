@@ -25,6 +25,9 @@ Grabs and serves the `master.db` from multiple game regions of `Princess Connect
 > [priconne-image-extractor](https://github.com/Expugn/priconne-image-extractor)<br>
 Downloads and deserializes images/Texture2D assets from multiple game regions of `Princess Connect! Re:Dive`
 
+> [priconne-diff-csv](https://github.com/Expugn/priconne-diff-csv)<br>
+Serves .csv files generated from the database of multiple game regions for `Princess Connect! Re:Dive`
+
 ## Genshin Impact
 > [genshin-weapon-material-calculator](https://github.com/Expugn/genshin-weapon-material-calculator)<br>
 Calculator for figuring out if you have enough weapon ascension materials
