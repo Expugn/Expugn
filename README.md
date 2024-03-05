@@ -6,7 +6,7 @@ I make things for the games I play.
 > [priconne-quest-helper](https://github.com/Expugn/priconne-quest-helper) **(ON HIATUS)**<br>
 Quest choosing assistance and project management
 
-> [Spugn/priconne-quest-helper](https://github.com/Spugn/priconne-quest-helper) **(ON HIATUS)**<br>
+> [Spugn/priconne-quest-helper](https://github.com/Spugn/priconne-quest-helper)<br>
 v3.0 of `Expugn/priconne-quest-helper`, focused more on a more friendly user interface
 
 > [priconne-shiritori](https://github.com/Expugn/priconne-shiritori)<br>
