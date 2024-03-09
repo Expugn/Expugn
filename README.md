@@ -3,7 +3,7 @@ I make things for the games I play.
 
 ## Princess Connect! Re:Dive
 ### General
-> [priconne-quest-helper](https://github.com/Expugn/priconne-quest-helper) **(ON HIATUS)**<br>
+> ~~[priconne-quest-helper](https://github.com/Expugn/priconne-quest-helper)~~ **(DISCONTINUED)**<br>
 Quest choosing assistance and project management
 
 > [Spugn/priconne-quest-helper](https://github.com/Spugn/priconne-quest-helper)<br>
