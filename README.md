@@ -4,12 +4,7 @@ I make things for the games I play.
 ## Actively Maintaining
 *Projects that are constantly monitored, updated, and fixed!*
 
-### Princess Connect! Re:Dive
-> [priconne-database](https://github.com/Expugn/priconne-database)<br>
-Grabs and serves the `master.db` from multiple game regions of `Princess Connect! Re:Dive`
-
-> [priconne-diff](https://github.com/Expugn/priconne-diff)<br>
-Serves formatted files generated from the database of multiple game regions for `Princess Connect! Re:Dive`
+<sub>*none at the moment...*</sub>
 
 ## Inactive Projects
 *Projects that are no longer being actively maintained, due to lack of time, interest, or general deprecation...*
@@ -20,6 +15,12 @@ Quest choosing assistance and project management
 
 > [Spugn/priconne-quest-helper](https://github.com/Spugn/priconne-quest-helper)<br>
 v3.0 of `Expugn/priconne-quest-helper`, focused more on a more friendly user interface
+
+> [priconne-database](https://github.com/Expugn/priconne-database)<br>
+Grabs and serves the `master.db` from multiple game regions of `Princess Connect! Re:Dive`
+
+> [priconne-diff](https://github.com/Expugn/priconne-diff)<br>
+Serves formatted files generated from the database of multiple game regions for `Princess Connect! Re:Dive`
 
 > [priconne-shiritori](https://github.com/Expugn/priconne-shiritori)<br>
 Help for non-Japanese speakers for the `Great Battle! Shiritori Dragons` minigame
